@@ -52,4 +52,4 @@ This project is licensed under the [MIT License](LICENSE).
 - We would like to thank the creators of Streamlit and various NLP libraries for their invaluable contributions to this project.
 
 ## Contact
-For any inquiries or feedback, please contact [Your Name](mailto:your_email@example.com).
+For any inquiries or feedback, please contact [Bhushan Taksande](bhushant731@gmail.com).
