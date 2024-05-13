@@ -1,9 +1,9 @@
-# Summary-Generator-for-Auido-and-Text
+# News-Summary-Generator-for-Auido-and-Text
 
  Summary Generator
 
 ## Overview
-This project is a Title Summary Generator, utilizing Natural Language Processing (NLP) techniques to generate summaries for given texts. The application is implemented as a Streamlit web app, providing users with the ability to select specific domains such as health, business, news, sports, and politics. The summary generation process is conditioned on the selected domain; if the input text belongs to the chosen domain, the app generates a summary tailored to that domain.
+This project is a Title News Summary Generator, utilizing Natural Language Processing (NLP) techniques to generate summaries for given texts. The application is implemented as a Streamlit web app, providing users with the ability to select specific domains such as health, business, news, sports, and politics. The summary generation process is conditioned on the selected domain; if the input text belongs to the chosen domain, the app generates a summary tailored to that domain.
 
 ## Features
 - **Domain-specific Summarization**: Users can select from five different domains, and the summarization process is customized based on the selected domain.
